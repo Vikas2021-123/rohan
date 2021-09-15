@@ -12,8 +12,13 @@ public class github {
 			
 			System.out.println("This is my second git code");
 
-			System.out.println("This is my fifth git code");
+			System.out.println("This is my third git code");
 
+			System.out.println("This is my fourth git code");
+
+			System.out.println("This is my fifth git code");
+			
+			System.out.println("This is my sixth git code");
 		
 	}
 
